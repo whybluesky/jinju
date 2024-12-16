@@ -1,0 +1,12 @@
+/* 编辑器 iframe 的样式 */
+.text-to-image-editor-frame {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 800px;
+  height: 600px;
+  border: none;
+  box-shadow: 0 0 20px rgba(0,0,0,0.3);
+  z-index: 2147483647;
+} 

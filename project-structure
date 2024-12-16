@@ -1,0 +1,19 @@
+text-to-image-extension/
+├── manifest.json
+├── background/
+│   └── background.js
+├── content/
+│   ├── content.js
+│   └── content.css
+├── popup/
+│   ├── popup.html
+│   ├── popup.css
+│   └── popup.js
+├── editor/
+│   ├── editor.html
+│   ├── editor.css
+│   └── editor.js
+└── assets/
+    ├── templates/
+    ├── fonts/
+    └── icons/ 
