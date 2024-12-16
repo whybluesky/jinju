@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "文字转图片分享工具",
   "version": "1.0",
-  "description": "将选中的文字转换为精美的分享图片",
+  "description": "将1选中的文字转换为精美的分享图片",
   "permissions": [
     "contextMenus",
     "storage",
